@@ -1,5 +1,5 @@
 {
-  "name": "madalinoprea/magneto-debug",
+  "name": "hgati/madalinoprea-magneto-debug",
   "description": "Development Debug Toolbar for Magento 1.x",
   "type": "magento-module",
   "keywords": ["Magento", "logging", "performance"],
