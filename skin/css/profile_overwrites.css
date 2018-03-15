@@ -19,3 +19,40 @@ th.sortable  {
 #collections-table pre {
     white-space: normal;
 }
+
+/* 사용자정의 */
+body {
+    background-color: #F9F9F9;
+    color: #222;
+    font-family: "맑은 고딕", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+code, pre {
+    font-family: Consolas, monospace; font-size: 13px; font-size-adjust: 0.5;
+}
+
+button {
+    font-family: "맑은 고딕", Helvetica, Arial, sans-serif;
+}
+
+table tbody td {
+    font-family: "맑은 고딕", monospace; font-size: 13px; font-size-adjust: 0.5;
+    border: 1px solid #E0E0E0;
+    border-width: 1px 0;
+}
+
+.font-normal {
+    font-family: "맑은 고딕", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
+#collector-content .sf-dump samp {
+    font-family: "맑은 고딕", monospace; font-size: 13px; font-size-adjust: 0.5;
+}
+
+#search-results td {
+    font-family: "맑은 고딕", Helvetica, Arial, sans-serif;
+    vertical-align: middle;
+}
