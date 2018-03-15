@@ -1,6 +1,6 @@
 {
   "name": "hgati/magneto-debug",
-  "description": "Development Debug Toolbar for Magento 1.x",
+  "description": "Custom Development Debug Toolbar for Magento 1.x",
   "type": "magento-module",
   "keywords": ["Magento", "logging", "performance"],
   "homepage": "https://github.com/madalinoprea/magneto-debug",
