@@ -56,3 +56,18 @@ table tbody td {
     font-family: "맑은 고딕", Helvetica, Arial, sans-serif;
     vertical-align: middle;
 }
+
+.sf-toolbarreset {
+    background-color: #222;
+    bottom: 0;
+    box-shadow: 0 -1px 0px rgba(0, 0, 0, 0.2);
+    color: #EEE;
+    font: 11px "맑은 고딕", Arial, sans-serif;
+    left: 0;
+    margin: 0;
+    padding: 0 36px 0 0;
+    position: fixed;
+    right: 0;
+    text-align: left;
+    z-index: 99999;
+}
